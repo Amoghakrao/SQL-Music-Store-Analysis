@@ -23,3 +23,6 @@ The results of the project are as follows:
 
 # Conclusion
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
+
+# LinkedIn
+https://www.linkedin.com/in/amoghakowlige/  
